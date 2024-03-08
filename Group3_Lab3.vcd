@@ -1,0 +1,74 @@
+$date
+	Fri Mar 01 14:51:21 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module Group3_Lab3 $end
+$var wire 1 ! a1 $end
+$var wire 1 " a2 $end
+$var wire 1 # a3 $end
+$var wire 1 $ b $end
+$var wire 1 % b1 $end
+$var wire 1 & b2 $end
+$upscope $end
+$scope module test_Lab3_tb $end
+$var wire 1 ' b $end
+$var wire 1 ( b1 $end
+$var wire 1 ) b2 $end
+$var reg 1 * a1 $end
+$var reg 1 + a2 $end
+$var reg 1 , a3 $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0,
+0+
+0*
+0)
+0(
+0'
+z&
+z%
+z$
+z#
+z"
+z!
+$end
+#1
+1,
+#2
+0,
+1+
+#3
+1'
+1)
+1,
+#4
+0'
+0)
+0,
+0+
+1*
+#5
+1'
+1(
+1,
+#6
+0'
+0(
+0,
+1+
+#7
+1'
+1)
+1(
+1,
+#100
